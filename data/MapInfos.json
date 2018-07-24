@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":5770,"scrollY":3918.5},
+{"id":2,"expanded":false,"name":"異界學實驗室","order":3,"parentId":1,"scrollX":819,"scrollY":445.5},
+{"id":3,"expanded":false,"name":"fade","order":2,"parentId":1,"scrollX":819,"scrollY":445.5},
+{"id":4,"expanded":true,"name":"world0","order":4,"parentId":0,"scrollX":1993,"scrollY":437.5}
+]
